@@ -1,6 +1,4 @@
-import {Dropdown, Header, Icon, Segment} from "semantic-ui-react";
-import {Accordion} from "semantic-ui-react/dist/commonjs/modules/Accordion/Accordion";
-import {Form} from "semantic-ui-react/dist/commonjs/collections/Form/Form";
+import {Dropdown, Header, Icon, Segment, Accordion, Form} from "semantic-ui-react";
 import * as PropTypes from "prop-types";
 import React from "react";
 
