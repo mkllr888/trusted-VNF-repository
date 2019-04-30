@@ -1,4 +1,4 @@
-# Blockchain-based Trusted VNFPackage Repository
+# Blockchain-based Trusted VNF Package Repository
 
 ## Abstract
 Network operators are under much pressure to improve their services:  On the one side,they  need  to  push  prices  down  for  customers,  on  the  other  side  they  need  to  invest  innew technologies and need to provide their services with great stability.  For this reason,operators are turning to Network Function Virtualization (NFV).
